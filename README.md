@@ -14,3 +14,6 @@ TO-DO:
 - make the frontend more eye-friendly
 - code to remove the prefix hex code that is added to the string saved to the blockchain
 - add code to display Solana PubKey's other saved data that used the same Solana prgram
+
+MY RESOURCES:
+- for deploying on vercel: https://blog.logrocket.com/deploy-react-app-for-free-using-vercel/
