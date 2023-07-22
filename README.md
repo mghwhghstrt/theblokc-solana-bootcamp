@@ -24,3 +24,4 @@ MY RESOURCES:
 - making a Solana program for a Twitter clone: https://lorisleiva.com/create-a-solana-dapp-from-scratch
 - making a Solana program for a todo list: https://imfeld.dev/writing/starting_with_solana_part04
 - another dapp to save meesages to the blockchain: https://medium.com/makedeveasy/build-solana-dapps-with-anchor-rust-react-simple-way-5d2e018b0cab
+- pre-anchor Rust code for a message feed https://github.com/solana-labs/example-messagefeed#message-feed
