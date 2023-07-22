@@ -17,3 +17,7 @@ TO-DO:
 
 MY RESOURCES:
 - for deploying on vercel: https://blog.logrocket.com/deploy-react-app-for-free-using-vercel/
+- for making a blog dapp: https://learn.figment.io/tutorials/build-a-blog-dapp-using-anchor
+- making a simple dapp to save to the blockchain: https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+- making a Solana program for a Twitter clone: https://lorisleiva.com/create-a-solana-dapp-from-scratch
+- making a Solana program for a todo list: https://imfeld.dev/writing/starting_with_solana_part04
