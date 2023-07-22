@@ -21,3 +21,4 @@ MY RESOURCES:
 - making a simple dapp to save to the blockchain: https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 - making a Solana program for a Twitter clone: https://lorisleiva.com/create-a-solana-dapp-from-scratch
 - making a Solana program for a todo list: https://imfeld.dev/writing/starting_with_solana_part04
+- another dapp to save meesages to the blockchain: https://medium.com/makedeveasy/build-solana-dapps-with-anchor-rust-react-simple-way-5d2e018b0cab
