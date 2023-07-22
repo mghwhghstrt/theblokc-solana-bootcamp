@@ -1,5 +1,7 @@
 # theblokc-solana-bootcamp
 
+I built a MWE of a webapp that takes a text input from a user then saves it into a data account on the Solana blockchain (provided that the user signs in using PhantomWallet).
+
 video of working code: https://youtu.be/qmULyUD0qyQ
 
 deployed webapp: https://soldevbootcamp.vercel.app/
